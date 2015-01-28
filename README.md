@@ -1,0 +1,1 @@
+Going through exercises in javascript and jquery book by Jon Duckett
